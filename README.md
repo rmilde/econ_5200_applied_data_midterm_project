@@ -11,4 +11,16 @@ The results show that the original finding remains robust—there is still no ev
 
 Overall, this extension does not weaken the conclusions of the original paper, but rather deepens them by showing that the positive average effect reflects a combination of heterogeneous responses across firms rather than a uniform impact across all establishments.
 
+# Executive Memo 
+
+Raising the minimum wage in New Jersey did not reduce jobs in fast-food restaurants. Even after digging deeper into different types of restaurants, this result still holds.
+
+To understand the methodology, think of this like a real-world A/B test. New Jersey raised its minimum wage, while nearby Pennsylvania did not. Because these states are similar, Pennsylvania acts as a “control group” that shows what likely would have happened in New Jersey if nothing changed. By comparing how employment evolved in both places before and after the policy, we can isolate the true impact of the wage increase, instead of confusing it with broader economic trends.
+
+![HTE Results](image.jpg)
+
+This chart shows how the employment impact varies across different restaurant types and locations. Each dot is the estimated effect, the lines show uncertainty, and the vertical line at zero means “no change.” Most results sit close to zero and their ranges cross it, meaning there’s no clear evidence of job loss. While a few groups show small positive or negative differences, they are not strong enough to change the main takeaway: the minimum wage increase did not reduce employment overall.
+
+Decision-makers should not assume that modest increases in minimum wage will automatically reduce employment. The evidence suggests businesses can absorb higher wages without cutting jobs, likely through small operational adjustments. However, since some differences appear across restaurant chains, company-specific strategies matter. This means policy changes may not hit every business the same way, but overall job loss should not be the primary concern.
+
 
