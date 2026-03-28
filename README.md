@@ -17,7 +17,8 @@ Raising the minimum wage in New Jersey did not reduce jobs in fast-food restaura
 
 To understand the methodology, think of this like a real-world A/B test. New Jersey raised its minimum wage, while nearby Pennsylvania did not. Because these states are similar, Pennsylvania acts as a “control group” that shows what likely would have happened in New Jersey if nothing changed. By comparing how employment evolved in both places before and after the policy, we can isolate the true impact of the wage increase, instead of confusing it with broader economic trends.
 
-![HTE Results](image.jpg)
+<img width="991" height="593" alt="image" src="https://github.com/user-attachments/assets/7bc036d5-45c8-4a05-bec5-587354de6a29" />
+
 
 This chart shows how the employment impact varies across different restaurant types and locations. Each dot is the estimated effect, the lines show uncertainty, and the vertical line at zero means “no change.” Most results sit close to zero and their ranges cross it, meaning there’s no clear evidence of job loss. While a few groups show small positive or negative differences, they are not strong enough to change the main takeaway: the minimum wage increase did not reduce employment overall.
 
